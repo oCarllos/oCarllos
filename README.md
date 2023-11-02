@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oCarllos
+- 👋 Oi, sou @oCarllos
 - 👀 Estou interessado em aprender novas tecnologias para crescer profissionalmente!
 - 🌱 Atualmente estou estudando Java com integração com Banco de dados usando IDE Eclipse.
 - 📫 Como entrar contato comigo ?
